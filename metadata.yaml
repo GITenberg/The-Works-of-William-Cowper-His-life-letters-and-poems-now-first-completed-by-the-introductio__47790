@@ -1,10 +1,14 @@
 _repo: The-Works-of-William-Cowper-His-life-letters-and-poems-now-first-completed-by-the-introductio__47790
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Grimshawe, T. S.
       gutenberg_agent_id: '44470'
       url: http://www.gutenberg.org/2009/agents/44470
+covers:
+- cover_type: archival
+  image_path: 47790-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Cowper, William
@@ -17,6 +21,8 @@ description: 'Voll. 1-5: His life and letters / by William Hayley ; now first co
   by the introduction of Cowper''s private correspondence. -- (XXIV,344; XVI,348;
   XV,328; XX,362; XVII,4l4 p.) -- Voll. 6-8: Poems : with an essay on the genius and
   poetry of Cowper / by N.W.Cunningham. -- (LVIII, 281; VIII,379; XVI,432 p.)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47790#The-Works-of-William-Cowper-His-life-letters-and-poems-now-first-completed-by-the-introductio_
 gutenberg_issued: '2014-12-27'
 gutenberg_type: Text
 identifiers:
